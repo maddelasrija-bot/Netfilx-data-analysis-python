@@ -1,8 +1,8 @@
-# Netflix Data Analysis using Python
+# Netflix Data Analysis (Python EDA Project)
 
-This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset.
+This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset to identify trends in content production, release patterns, and distribution.
 
-## Tools Used
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -10,7 +10,16 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Seaborn
 - Jupyter Notebook
 
+## Dataset
+Netflix Movies and TV Shows dataset from Kaggle.
+
+## Project Objectives
+- Clean and preprocess the dataset
+- Analyze content distribution (Movies vs TV Shows)
+- Identify top countries producing Netflix content
+- Study content release trends over time
+
 ## Key Insights
-- Netflix has more Movies than TV Shows.
+- Netflix hosts significantly more Movies than TV Shows.
 - The United States produces the highest number of titles.
-- Content production increased significantly after 2015.
+- Netflix content production increased rapidly after 2015.
